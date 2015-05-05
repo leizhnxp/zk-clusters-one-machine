@@ -9,8 +9,7 @@ syncLimit=5
 # the directory where the snapshot is stored.
 # do not use /tmp for storage, /tmp here is just 
 # example sakes.
-dataDir=zk-multi-server-single-machine/data/2193
-dataDir=zk-multi-server-single-machine/data/2193
+dataDir=zk-clusters-one-machine/data/2193
 # the port at which the clients will connect
 clientPort=2193
 # the maximum number of client connections.
